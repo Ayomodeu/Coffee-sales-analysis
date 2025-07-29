@@ -6,7 +6,7 @@
 - [Purpose of the Analysis](#Purpose-of-the-Analysis)
 - [Project Workflow](#Project-Workflow)
 - [Data cleaning](#Data-cleaning)
-- [Data Analysis(Questions)](#Data-Analysis(Questions))
+- [Questions](Questions)
 
 ## Introduction – Coffee Shop Sales Analysis
 
@@ -37,7 +37,7 @@
 ##### 3.I checked for duplicates
 ##### 4.I removed all irrelevant data
 
-## Data Analysis(Questions)
+## Questions
 ##### 1.What Is the best selling product?
 ##### 2.Which product types generated the most sales revenue?
 ##### 3.What is the total revenue (Total_Bill) per product category?
