@@ -11,6 +11,7 @@
 ## Introduction – Coffee Shop Sales Analysis
 
 ##### This project focuses on analyzing sales data from a coffee shop outlet, specifically centered around the sales of brewed herbal tea products at the Astoria branch over a period in June 2023. The dataset contains detailed transaction-level data, capturing each sale made at the store.
+##### The data was downloaded from [kaggle](https://www.kaggle.com/)
 
 ## Key Variables
 ##### 1.Transaction Date and Time: Timestamp for each sale, helping to track customer traffic patterns by time and day.
