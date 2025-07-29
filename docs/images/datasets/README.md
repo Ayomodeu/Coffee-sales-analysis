@@ -1,12 +1,14 @@
-Introduction – Coffee Shop Sales Analysis
+# Coffee Sales Report
 
-This project focuses on analyzing sales data from a coffee shop outlet, specifically centered around the sales of brewed herbal tea products at the Astoria branch over a period in June 2023. The dataset contains detailed transaction-level data, capturing each sale made at the store.
+## Introduction – Coffee Shop Sales Analysis
 
-The key variables present in the dataset include:
-1.Transaction Date and Time: Timestamp for each sale, helping to track customer traffic patterns by time and day.
-2.Store ID and Store Location: Identifies the specific store location (Astoria) where the sales occurred.
-3.Product Details: Information about the product sold, including product ID, category (Tea), and type (Brewed herbal tea), with specific details like flavor (Peppermint).
-4.Sales Metrics: Columns for quantity sold, unit price, and total bill amount for each transaction.
+##### This project focuses on analyzing sales data from a coffee shop outlet, specifically centered around the sales of brewed herbal tea products at the Astoria branch over a period in June 2023. The dataset contains detailed transaction-level data, capturing each sale made at the store.
+
+## The key variables present in the dataset include:
+##### 1.Transaction Date and Time: Timestamp for each sale, helping to track customer traffic patterns by time and day.
+##### 2.Store ID and Store Location: Identifies the specific store location (Astoria) where the sales occurred.
+##### 3.Product Details: Information about the product sold, including product ID, category (Tea), and type (Brewed herbal tea), with specific details like flavor (Peppermint).
+##### 4.Sales Metrics: Columns for quantity sold, unit price, and total bill amount for each transaction.
 
 Purpose of the Analysis:
 The main goal of this project is to conduct a comprehensive sales analysis that covers:
