@@ -6,7 +6,7 @@
 - [Purpose of the Analysis](#Purpose-of-the-Analysis)
 - [Project Workflow](#Project-Workflow)
 - [Data cleaning](#Data-cleaning)
-- [Questions](Questions)
+- [Questions](#Questions)
 
 ## Introduction – Coffee Shop Sales Analysis
 
